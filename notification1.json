@@ -1,0 +1,14 @@
+{
+    "registration_ids": [
+        "fBju0DOLAPk:APA91bG9m7uzEcW3jTb20_GHW_ZxYiOgKBOf-OqxL1MU4psvZKwAJ15Cs4bSIDZ44AB2fgb3aLftp7ivbYL7XtwLY98rouX0njX6KGJKxbh6JI0gF0tYcr2e8asb6kB3jKSacEaHgpHp",
+        "eQMWguluZX8:APA91bGVGdcWWmuLK4UtChj_axGQbvTxFtUIyWKsRsUqdmVXVj6MziFpEGJkToTgOqAVlxjaogBLTEifE6rZAVei1oKY8HXmEePfngaRRN_ox31jXw_TKUyKrm3541zdgtXMsHCaFeS8",
+        "fqEyc718yuw:APA91bENac1nCV47qEbr2LgLq5PxXv-E-dgvCxDOYwjCm4J1fSuZ4VqDDUO7VdIThojgg9gbRquvEFRStj6mDM0xJpuBgagVcKdgi2ngwrNByY_1rPM_vGAVWVlrxhlxsnQPAhaPBj3I"
+    ],
+    "collapse_key": "type_a",
+    "data": {
+        "title": "ALT App Testing",
+        "body": "hello hello",
+        "notification_channel_id": "MyFCMChannel",
+        "url": "https//:aliakberaakash.github.io/fetch-json-for-notification"
+    }
+}
