@@ -9,6 +9,6 @@
         "title": "ALT App Testing",
         "body": "hello hello",
         "notification_channel_id": "MyFCMChannel",
-        "url": "https//:aliakberaakash.github.io/fetch-json-for-notification"
+        "url": "https://raw.githubusercontent.com/AliAkberAakash/Notification-payload/master/notification1.json"
     }
 }
