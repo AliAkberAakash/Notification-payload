@@ -1,7 +1,5 @@
 {
   "title" : "Notification Payload",
   "body" : "this is a notification body",
-  "image" : "kkkk",
-  "promotionList" : ["some data", "some data"
-  ]
+  "image" : "kkkk"
 }
