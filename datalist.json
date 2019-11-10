@@ -1,0 +1,16 @@
+{
+	"datalist": [{
+			"title": "Title for first item",
+			"body": "Body for first item"
+		},
+		{
+			"title": "Title for second item",
+			"body": "Body for decond item"
+		},
+
+		{
+			"title": "Title for first item",
+			"body": "Body for first item"
+		}
+	]
+}
