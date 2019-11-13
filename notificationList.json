@@ -1,0 +1,18 @@
+{
+	"list": [{
+		"serial": 1,
+		"title": "First Notification",
+		"body": "First Body",
+		"image": "First Image"
+	}, {
+		"serial": 2,
+		"title": "Second Notification",
+		"body": "Second Body",
+		"image": "Second Image"
+	}, {
+		"serial": 3,
+		"title": "Third Notification",
+		"body": "Third Body",
+		"image": "Third Image"
+	}]
+}
