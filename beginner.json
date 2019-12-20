@@ -1,0 +1,243 @@
+{
+	"list": [{
+			"category": "Beginners",
+			"name": "Activity Lifecycle",
+			"serial": "13",
+			"docsLink1": "https://www.tutorialspoint.com/android/android_acitivities",
+			"docsLink2": "https://guides.codepath.com/android/Activity-Lifecycle",
+			"docsLink3": "https://www.tutlane.com/tutorial/android/android-activity-lifecycle",
+			"vidLink1": "T88qoVIHaKc",
+			"vidLink2": "4-CRPx7zmMo"
+		},
+		{
+			"category": "Beginners",
+			"name": "Alert Dialog",
+			"serial": "20",
+			"docsLink1": "https://www.javatpoint.com/android-alert-dialog-example",
+			"docsLink2": "https://www.journaldev.com/9463/android-alertdialog",
+			"docsLink3": "https://android--code.blogspot.com/2018/02/android-kotlin-alertdialog-example.html?m=1",
+			"vidLink1": "oqEXYBepqus",
+			"vidLink2": "5jRS9BJoRs4"
+		},
+		{
+			"category": "Beginners",
+			"name": "Button",
+			"serial": "4",
+			"docsLink1": "https://www.tutlane.com/tutorial/android/android-button-with-examples",
+			"docsLink2": "https://abhiandroid.com/ui/button",
+			"docsLink3": "https://www.google.com/amp/s/www.tutorialkart.com/kotlin-android/set-onclicklistener-button-kotlin-android/",
+			"vidLink1": "aE5f1tV5nU4",
+			"vidLink2": "mw_-Q8S_77E"
+		},
+		{
+			"category": "Beginners",
+			"name": "Constraint Layout",
+			"serial": "9",
+			"docsLink1": "https://www.raywenderlich.com/9475-constraintlayout-tutorial-for-android-complex-layouts",
+			"docsLink2": "https://www.journaldev.com/13590/android-constraintlayout",
+			"docsLink3": "https://tutorial.eyehunts.com/android/android-constraintlayout-example-kotlin/",
+			"vidLink1": "rzmB3UxxhaA",
+			"vidLink2": "4N4bCdyGcUc"
+		},
+		{
+			"category": "Beginners",
+			"name": "Coordinate Layout",
+			"serial": "8",
+			"docsLink1": "https://blog.mindorks.com/using-coordinator-layout-in-android",
+			"docsLink2": "https://antonioleiva.com/coordinator-layout/",
+			"docsLink3": "https://resocoder.com/2018/02/16/custom-coordinatorlayout-behavior-android-kotlin-tutorial/",
+			"vidLink1": "Kz_s6DFjTcw",
+			"vidLink2": "P84O-lT2p1M"
+		},
+		{
+			"category": "Beginners",
+			"name": "EditText",
+			"serial": "5",
+			"docsLink1": "https://guides.codepath.com/android/Working-with-the-EditText",
+			"docsLink2": "https://www.tutorialspoint.com/android/android_edittext_control",
+			"docsLink3": "https://tutorialwing.com/android-edittext-using-kotlin-example/",
+			"vidLink1": "Khwc7EafBls",
+			"vidLink2": "vimoTCN5_E8"
+		},
+		{
+			"category": "Beginners",
+			"name": "Floating Action Button",
+			"serial": "15",
+			"docsLink1": "https://guides.codepath.com/android/floating-action-buttons",
+			"docsLink2": "https://www.journaldev.com/10318/android-floating-action-button-example-tutorial",
+			"docsLink3": "https://devofandroid.blogspot.com/2018/03/adding-floating-action-button-kotlin.html?m=1",
+			"vidLink1": "vWq0FLMj0_I",
+			"vidLink2": "RgAveUJvxbY"
+		},
+		{
+			"category": "Beginners",
+			"name": "Fragments",
+			"serial": "18",
+			"docsLink1": "https://www.javatpoint.com/android-fragments",
+			"docsLink2": "https://www.tutorialspoint.com/android/android_fragments.htm",
+			"docsLink3": "https://developer.android.com/guide/components/fragments",
+			"vidLink1": "k3IT-IJ0J98",
+			"vidLink2": "mcF28h9WiGQ"
+		},
+		{
+			"category": "Beginners",
+			"name": "Fragments Life Cycle",
+			"serial": "19",
+			"docsLink1": "https://android.i-visionblog.com/android-fragments-life-cycle-612e85c047dd",
+			"docsLink2": "https://www.journaldev.com/9266/android-fragment-lifecycle",
+			"docsLink3": "https://blog.mindorks.com/android-fragments-and-its-lifecycle",
+			"vidLink1": "e9oTDRObYy8",
+			"vidLink2": "GrPAVBOp_fk"
+		},
+		{
+			"category": "Beginners",
+			"name": "Frame Layout",
+			"serial": "16",
+			"docsLink1": "https://www.tutorialspoint.com/android/android_frame_layout.htm",
+			"docsLink2": "https://abhiandroid.com/ui/framelayout",
+			"docsLink3": "https://tutorial.eyehunts.com/android/android-framelayout-tutorial-example-kotlin/",
+			"vidLink1": "-6XmpFU-Z1g",
+			"vidLink2": "wdFv3v9R9cc"
+		},
+		{
+			"category": "Beginners",
+			"name": "Getting Started",
+			"serial": "1",
+			"docsLink1": "https://www.androidauthority.com/android-studio-tutorial-beginners-637572/amp/",
+			"docsLink2": "https://www.google.com/amp/s/www.androidauthority.com/how-to-install-android-studio-859295/amp/",
+			"docsLink3": "https://www.geeksforgeeks.org/guide-to-install-and-set-up-android-studio/amp/",
+			"vidLink1": "7vvMltQtfxY",
+			"vidLink2": "N0oSRD3IeIU"
+		},
+		{
+			"category": "Beginners",
+			"name": "ImageView",
+			"serial": "3",
+			"docsLink1": "https://www.mkyong.com/android/android-imageview-example/",
+			"docsLink2": "https://o7planning.org/en/10531/android-imageview-tutorial",
+			"docsLink3": "https://www.google.com/amp/s/www.androidly.net/150/android-imageview-imagebutton-using-kotlin/amp",
+			"vidLink1": "Y7JTkXoN8OE",
+			"vidLink2": "wMR5sKrqY64"
+		},
+		{
+			"category": "Beginners",
+			"name": "Intent",
+			"serial": "10",
+			"docsLink1": "https://www.vogella.com/tutorials/AndroidIntent/article.html",
+			"docsLink2": "https://www.javatpoint.com/android-intent-tutorial",
+			"docsLink3": "https://www.tutorialkart.com/kotlin-android/android-start-another-activity/",
+			"vidLink1": "sjPFE_ERAHk",
+			"vidLink2": "EspAbrnic1Y"
+		},
+		{
+			"category": "Beginners",
+			"name": "Linear Layout",
+			"serial": "7",
+			"docsLink1": "https://www.studytonight.com/android/linear-layout-in-android",
+			"docsLink2": "https://abhiandroid.com/ui/linear-layout",
+			"docsLink3": "https://www.google.com/amp/s/coding180.com/kotlin-android/layout-linearlayout/amp/",
+			"vidLink1": "Z5mXiFW0Iws",
+			"vidLink2": "70-JVroY1Ng"
+		},
+		{
+			"category": "Beginners",
+			"name": "Navigation Drawer",
+			"serial": "23",
+			"docsLink1": "https://guides.codepath.com/android/fragment-navigation-drawer",
+			"docsLink2": "https://www.androidcode.ninja/android-navigation-drawer-example/",
+			"docsLink3": "https://tutorial.eyehunts.com/android/android-navigation-drawer-example-kotlin/",
+			"vidLink1": "J8GB_b8qyK8",
+			"vidLink2": "aeX8PLlWacI"
+		},
+		{
+			"category": "Beginners",
+			"name": "RadioButton",
+			"serial": "12",
+			"docsLink1": "https://www.mkyong.com/android/android-radio-buttons-example/",
+			"docsLink2": "https://www.google.com/amp/s/www.geeksforgeeks.org/android-how-to-add-radio-buttons-in-an-android-application/amp/",
+			"docsLink3": "https://www.google.com/amp/s/www.androidly.net/161/android-radiobutton-radiogroup-using-kotlin/amp",
+			"vidLink1": "cTlWwuAvRpE",
+			"vidLink2": "OWTHo-FNIok"
+		},
+		{
+			"category": "Beginners",
+			"name": "Saving the State",
+			"serial": "22",
+			"docsLink1": "https://www.journaldev.com/22621/android-onsaveinstancestate-onrestoreinstancestate",
+			"docsLink2": "https://medium.com/@doyouseeitmyway/save-and-restore-instance-state-made-easy-cf6f175f54b0",
+			"docsLink3": "",
+			"vidLink1": "3FMn4FEv12M",
+			"vidLink2": "TcTgbVudLyQ"
+		},
+		{
+			"category": "Beginners",
+			"name": "Spinner",
+			"serial": "17",
+			"docsLink1": "https://abhiandroid.com/ui/spinner",
+			"docsLink2": "https://demonuts.com/android-spinner/",
+			"docsLink3": "https://www.google.com/amp/s/www.tutorialkart.com/kotlin-android/android-spinner-kotlin-example/",
+			"vidLink1": "on_OrrX7Nw4",
+			"vidLink2": "D5l7MNlqA3M"
+		},
+		{
+			"category": "Beginners",
+			"name": "Sqlite Database",
+			"serial": "25",
+			"docsLink1": "https://www.tutlane.com/tutorial/android/android-sqlite-database-with-examples",
+			"docsLink2": "https://abhiandroid.com/database/sqlite",
+			"docsLink3": "https://tutorial.eyehunts.com/android/sqlite-database-in-android-kotlin-example/",
+			"vidLink1": "cp2rL3sAFmI",
+			"vidLink2": "tsNgtAdlof8"
+		},
+		{
+			"category": "Beginners",
+			"name": "TabLayout & View Pager",
+			"serial": "24",
+			"docsLink1": "https://medium.com/@droidbyme/android-material-design-tabs-tab-layout-with-swipe-884085ae80ff",
+			"docsLink2": "https://www.codingdemos.com/android-tablayout-example-viewpager/",
+			"docsLink3": "https://www.w3adda.com/kotlin-android-tutorial/kotlin-tablayout-example",
+			"vidLink1": "Vxiy_h5hNII",
+			"vidLink2": "vhC8W8lwwUM"
+		},
+		{
+			"category": "Beginners",
+			"name": "TextView",
+			"serial": "2",
+			"docsLink1": "https://abhiandroid.com/ui/textview",
+			"docsLink2": "https://www.tutorialspoint.com/android/android_textview_control",
+			"docsLink3": "https://www.geeksforgeeks.org/textview-in-kotlin/",
+			"vidLink1": "VkCeWHa4EH0",
+			"vidLink2": "q_gujMR2ggE"
+		},
+		{
+			"category": "Beginners",
+			"name": "Design Support Library",
+			"serial": "14",
+			"docsLink1": "https://www.raywenderlich.com/5299-android-design-support-library-getting-started",
+			"docsLink2": "https://www.sitepoint.com/material-design-android-design-support-library/",
+			"docsLink3": "https://guides.codepath.com/android/Design-Support-Library",
+			"vidLink1": "3PIc-DuEU2s",
+			"vidLink2": "O2iNfIizcsk"
+		},
+		{
+			"category": "Beginners",
+			"name": "Toast",
+			"serial": "6",
+			"docsLink1": "https://www.mkyong.com/android/android-toast-example/",
+			"docsLink2": "https://www.tutlane.com/tutorial/android/android-toast-with-examples",
+			"docsLink3": "https://www.google.com/amp/s/www.tutorialkart.com/kotlin-android/android-toast-kotlin-example/",
+			"vidLink1": "XZ3440TyMhU",
+			"vidLink2": "sVx46awjtFQ"
+		},
+		{
+			"category": "Beginners",
+			"name": "WebView",
+			"serial": "11",
+			"docsLink1": "https://www.tutorialspoint.com/android/android_webview_layout",
+			"docsLink2": "https://abhiandroid.com/ui/webview",
+			"docsLink3": "https://blog.mindorks.com/android-webview-in-kotlin",
+			"vidLink1": "TUXui5ItBkM",
+			"vidLink2": "Ag9paBWHU2I"
+		}
+	]
+}
