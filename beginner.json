@@ -1,6 +1,16 @@
 {
 	"list": [{
 			"category": "Beginners",
+			"name": "Action Bar",
+			"serial": "21",
+			"docsLink1": "https://www.vogella.com/tutorials/AndroidActionBar/article.html",
+			"docsLink2": "https://www.google.com/amp/s/www.androidhive.info/2013/11/android-working-with-action-bar/amp/",
+			"docsLink3": "https://tutorial.eyehunts.com/android/android-toolbar-example-android-app-bar-kotlin/",
+			"vidLink1": "DMkzIOLppf4",
+			"vidLink2": "j-3L3CgYXkU"
+		},
+		{
+			"category": "Beginners",
 			"name": "Activity Lifecycle",
 			"serial": "13",
 			"docsLink1": "https://www.tutorialspoint.com/android/android_acitivities",
