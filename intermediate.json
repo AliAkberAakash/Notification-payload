@@ -2,7 +2,7 @@
 	"list": [{
 			"category": "Intermediate",
 			"name": "Alarm",
-			"serial": "10",
+			"serial": 10,
 			"docsLink1": "https://developer.android.com/training/scheduling/alarms",
 			"docsLink2": "https://www.javatpoint.com/android-alarmmanager",
 			"docsLink3": "https://javapapers.com/android/android-alarm-clock-tutorial/",
@@ -12,7 +12,7 @@
 		{
 			"category": "Intermediate",
 			"name": "AndroidX",
-			"serial": "1",
+			"serial": 1,
 			"docsLink1": "https://developer.android.com/jetpack/androidx",
 			"docsLink2": "https://developer.android.com/jetpack/androidx/migrate",
 			"docsLink3": "https://medium.com/ta-tonthongkam/android-jetpack-android-x-36c73abff1c5",
@@ -22,7 +22,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Appbar",
-			"serial": "3",
+			"serial": 3,
 			"docsLink1": "https://developer.android.com/training/appbar",
 			"docsLink2": "https://guides.codepath.com/android/using-the-app-toolbar",
 			"docsLink3": "https://www.vogella.com/tutorials/AndroidActionBar/article.html",
@@ -32,7 +32,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Async Task",
-			"serial": "9",
+			"serial": 9,
 			"docsLink1": "https://www.tutorialspoint.com/android-asynctask-example-and-explanation",
 			"docsLink2": "https://stackoverflow.com/questions/9671546/asynctask-android-example",
 			"docsLink3": "https://www.journaldev.com/9708/android-asynctask-example-tutorial",
@@ -42,7 +42,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Best Practices",
-			"serial": "28",
+			"serial": 28,
 			"docsLink1": "https://developer.android.com/distribute/best-practices",
 			"docsLink2": "https://medium.com/pen-bold-kiln-press/android-development-best-practices-ba0e511ca2f6",
 			"docsLink3": "https://auth0.com/blog/best-practices-in-android-development/",
@@ -52,7 +52,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Broadcast Receivers",
-			"serial": "8",
+			"serial": 8,
 			"docsLink1": "https://developer.android.com/reference/android/content/BroadcastReceiver",
 			"docsLink2": "https://www.tutorialspoint.com/android/android_broadcast_receivers.htm",
 			"docsLink3": "https://www.tutlane.com/tutorial/android/android-broadcastreceivers-with-example",
@@ -62,7 +62,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Facebook API",
-			"serial": "15",
+			"serial": 15,
 			"docsLink1": "https://developers.facebook.com/docs/android/",
 			"docsLink2": "https://www.sitepoint.com/integrating-the-facebook-api-with-android/",
 			"docsLink3": "https://github.com/facebook/facebook-android-sdk",
@@ -72,7 +72,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Firebase Crashlytics",
-			"serial": "21",
+			"serial": 21,
 			"docsLink1": "https://firebase.google.com/docs/crashlytics",
 			"docsLink2": "https://proandroiddev.com/firebase-android-series-crashlytics-29de3f507d6",
 			"docsLink3": "https://code.luasoftware.com/tutorials/android/setup-firebase-crashlytics-on-android-for-crash-reporting/",
@@ -82,7 +82,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Firebase Auth",
-			"serial": "18",
+			"serial": 18,
 			"docsLink1": "https://firebase.google.com/docs/auth",
 			"docsLink2": "https://firebase.google.com/docs/auth/android/custom-auth",
 			"docsLink3": "https://www.androidhive.info/2016/06/android-getting-started-firebase-simple-login-registration-auth/",
@@ -92,7 +92,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Firebase Storage",
-			"serial": "19",
+			"serial": 19,
 			"docsLink1": "https://firebase.google.com/docs/storage",
 			"docsLink2": "https://firebase.google.com/docs/storage/android/upload-files",
 			"docsLink3": "https://proandroiddev.com/firebase-android-series-storage-f09524008e14",
@@ -102,7 +102,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Firebase realtime database",
-			"serial": "20",
+			"serial": 20,
 			"docsLink1": "https://firebase.google.com/docs/database/android/start",
 			"docsLink2": "https://firebase.google.com/docs/database/?gclid=CjwKCAjw7uPqBRBlEiwAYDsr1xT3gcBpuk2y7m3oxXn9gCQB-d9V9h1SMY1udaufeaO2J3L0WsXHgBoCJQcQAvD_BwE",
 			"docsLink3": "https://www.androidhive.info/2016/10/android-working-with-firebase-realtime-database/",
@@ -112,7 +112,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Fragment communications",
-			"serial": "12",
+			"serial": 12,
 			"docsLink1": "https://developer.android.com/training/basics/fragments/communicating",
 			"docsLink2": "http://mobiledevhub.com/2017/12/11/android-fragments-fragment-fragment-communication/",
 			"docsLink3": "https://codinginflow.com/tutorials/android/fragment-to-fragment-communication-with-interfaces",
@@ -122,7 +122,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Gradle",
-			"serial": "17",
+			"serial": 17,
 			"docsLink1": "https://hellohasan.com/2019/06/10/android-gradle-plugin-tutorial-bengali/",
 			"docsLink2": "https://developer.android.com/studio/releases/gradle-plugin",
 			"docsLink3": "https://www.geeksforgeeks.org/android-build-gradle/",
@@ -132,7 +132,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Json and Gson",
-			"serial": "23",
+			"serial": 23,
 			"docsLink1": "https://abhiandroid.com/programming/json",
 			"docsLink2": "https://www.tutorialspoint.com/android/android_json_parser.htm",
 			"docsLink3": "https://medium.com/quick-code/parsing-json-on-android-using-gson-and-volley-83d6715776f8",
@@ -142,7 +142,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Localization",
-			"serial": "27",
+			"serial": 27,
 			"docsLink1": "https://developer.android.com/guide/topics/resources/localization",
 			"docsLink2": "https://www.oneskyapp.com/academy/android-app-localization-tutorial-basics/",
 			"docsLink3": "https://www.tethras.com/landing/LP005?gclid=CjwKCAjw7uPqBRBlEiwAYDsr14YnjPXnhKOCdYdGPqzx1v05SgVWd6aPDLMSHOD5FMx2dW5Nut94oRoClJ8QAvD_BwE",
@@ -152,7 +152,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Material Design",
-			"serial": "2",
+			"serial": 2,
 			"docsLink1": "https://developer.android.com/guide/topics/ui/look-and-feel",
 			"docsLink2": "https://material.io/develop/android/",
 			"docsLink3": "https://android.jlelse.eu/material-design-for-android-523996401fc1",
@@ -162,7 +162,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Menus",
-			"serial": "4",
+			"serial": 4,
 			"docsLink1": "https://developer.android.com/guide/topics/ui/menus",
 			"docsLink2": "https://code.tutsplus.com/tutorials/android-sdk-implement-an-options-menu--mobile-9453",
 			"docsLink3": "https://www.javatpoint.com/android-option-menu-example",
@@ -172,7 +172,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Notifications",
-			"serial": "11",
+			"serial": 11,
 			"docsLink1": "https://developer.android.com/training/notify-user/build-notification",
 			"docsLink2": "https://www.tutorialspoint.com/android/android_notifications.htm",
 			"docsLink3": "https://www.androidauthority.com/how-to-create-android-notifications-707254/",
@@ -182,7 +182,7 @@
 		{
 			"category": "Intermediate",
 			"name": "ORM database",
-			"serial": "22",
+			"serial": 22,
 			"docsLink1": "http://ormlite.com/sqlite_java_android_orm.shtml",
 			"docsLink2": "http://satyan.github.io/sugar/index.html",
 			"docsLink3": "http://greenrobot.org/greendao/",
@@ -192,7 +192,7 @@
 		{
 			"category": "Intermediate",
 			"name": "ProgressBar",
-			"serial": "6",
+			"serial": 6,
 			"docsLink1": "https://developer.android.com/reference/android/widget/ProgressBar",
 			"docsLink2": "https://www.tutlane.com/tutorial/android/android-progressbar-with-examples",
 			"docsLink3": "https://abhiandroid.com/ui/progressbar",
@@ -202,7 +202,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Rest API consumption",
-			"serial": "24",
+			"serial": 24,
 			"docsLink1": "https://android.jlelse.eu/consuming-rest-api-using-retrofit-library-in-android-ed47aef01ecb",
 			"docsLink2": "https://www.londonappdeveloper.com/consuming-a-json-rest-api-in-android/",
 			"docsLink3": "https://code.tutsplus.com/tutorials/android-from-scratch-using-rest-apis--cms-27117",
@@ -212,7 +212,7 @@
 		{
 			"category": "Intermediate",
 			"name": "SDK versions",
-			"serial": "25",
+			"serial": 25,
 			"docsLink1": "https://developer.android.com/studio/releases/platforms",
 			"docsLink2": "https://www.raywenderlich.com/2654120-android-sdk-versions-tutorial-with-kotlin",
 			"docsLink3": "https://www.dummies.com/web-design-development/mobile-apps/the-compile-sdk-minimum-sdk-and-target-sdk-versions/",
@@ -222,7 +222,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Services",
-			"serial": "7",
+			"serial": 7,
 			"docsLink1": "https://developer.android.com/guide/components/services",
 			"docsLink2": "https://www.javatpoint.com/android-service-tutorial",
 			"docsLink3": "https://www.tutorialspoint.com/android/android_services.htm",
@@ -232,7 +232,7 @@
 		{
 			"category": "Intermediate",
 			"name": "SnackBar",
-			"serial": "5",
+			"serial": 5,
 			"docsLink1": "https://material.io/develop/android/components/snackbar/",
 			"docsLink2": "https://developer.android.com/reference/android/support/design/widget/Snackbar",
 			"docsLink3": "https://www.androidhive.info/2015/09/android-material-design-snackbar-example/",
@@ -242,7 +242,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Social Login",
-			"serial": "16",
+			"serial": 16,
 			"docsLink1": "https://developers.google.com/identity/sign-in/android/start-integrating",
 			"docsLink2": "https://dzone.com/articles/how-to-authenticate-on-android-using-social-logins",
 			"docsLink3": "https://www.raywenderlich.com/3184-social-network-integration-on-android",
@@ -252,7 +252,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Threading (Basic)",
-			"serial": "26",
+			"serial": 26,
 			"docsLink1": "https://developer.android.com/topic/performance/threads",
 			"docsLink2": "https://www.toptal.com/android/android-threading-all-you-need-to-know",
 			"docsLink3": "https://medium.com/@maheswaranapk/android-threading-introduction-90e91e196600",
@@ -262,7 +262,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Version control (git)",
-			"serial": "13",
+			"serial": 13,
 			"docsLink1": "https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control",
 			"docsLink2": "https://www.atlassian.com/git/tutorials/what-is-version-control",
 			"docsLink3": "https://www.coursera.org/learn/version-control-with-git",
@@ -272,7 +272,7 @@
 		{
 			"category": "Intermediate",
 			"name": "Youtube API",
-			"serial": "14",
+			"serial": 14,
 			"docsLink1": "https://developers.google.com/youtube/android/player/",
 			"docsLink2": "https://medium.com/@soffritti.pierfrancesco/how-to-play-youtube-videos-in-your-android-app-c40427215230",
 			"docsLink3": "https://www.sitepoint.com/using-the-youtube-api-to-embed-video-in-an-android-app/",
